@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_662922_ccw2889_h.hello_user" name="x_662922_ccw2889_h.hello_user">704aa0f01b9d3010e29fc991604bcb9f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-09 13:50:30</sys_created_on>
+        <sys_id>8d4aa0f01b9d3010e29fc991604bcba2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>704aa0f01b9d3010e29fc991604bcb9f</sys_name>
+        <sys_package display_value="CCW2889 Hello World" source="x_662922_ccw2889_h">922a6c701b9d3010e29fc991604bcbd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2889 Hello World">922a6c701b9d3010e29fc991604bcbd7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8d4aa0f01b9d3010e29fc991604bcba2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-09 13:50:30</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
